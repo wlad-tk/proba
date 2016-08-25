@@ -1,0 +1,5 @@
+# IntelliJ project files
+.idea
+env
+proba/local_settings.py
+react/build
